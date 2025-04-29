@@ -88,6 +88,25 @@ Product Owner – Defines the product vision, sets priorities, and ensures the t
 
 Scrum Master – Facilitates Agile ceremonies, removes blockers, and ensures the team follows Scrum practices.
 
+# UI Component Patterns
+my planned section are the core UI components planned for the project:
+
+Navbar – A top navigation bar that includes the logo, search bar, navigation links, and user menu.
+
+Property Card – A reusable card to display property image, name, location, price, rating, and tags.
+
+Footer – A bottom section with links to pages like About, Contact, Terms, and social media icons.
+
+Filter Bar – A horizontal scrollable section to filter properties by type (e.g., Top Villa, Book Now).
+
+Search Input – A component to handle location and keyword search functionality.
+
+Rating Stars – A visual representation of property ratings using star icons.
+
+Buttons – Reusable styled buttons for actions like booking, filtering, or navigation.
+
+Modal/Popup – For login, signup, or booking confirmation prompts.
+
 
 
 
