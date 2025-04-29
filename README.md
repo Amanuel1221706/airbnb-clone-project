@@ -15,6 +15,7 @@ It aims to replicate the core functionality of the AirBnB platform, including us
 - Version Control: Git & GitHub
 The project status 
 Project initialization completed. Further development will proceed in the phases which we adreesed.
+
 #UI/UX Design Planning
 
 #Design Goals
