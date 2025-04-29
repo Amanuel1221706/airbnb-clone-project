@@ -71,6 +71,24 @@ Improves Collaboration – Designers and developers speak the same "visual langu
 Enables Scalability – Consistent styles make it easy to maintain and extend the UI.
 
 Better User Experience – Thoughtful color and type choices enhance usability, readability, and accessibility.
+# Project Roles and Responsibilities
+Project Manager – Oversees project timelines, coordinates teams, and ensures deliverables are met on schedule.
+
+Frontend Developer – Builds the user interface and ensures a smooth, responsive user experience.
+
+Backend Developer – Develops the server-side logic, databases, and APIs that power the application.
+
+UI/UX Designer – Designs the visual layout and ensures the interface is user-friendly and intuitive.
+
+QA/Testers – Test the application for bugs and ensure quality and functionality before release.
+
+DevOps Engineer – Manages deployment, CI/CD pipelines, and infrastructure for smooth app delivery.
+
+Product Owner – Defines the product vision, sets priorities, and ensures the team builds what the user needs.
+
+Scrum Master – Facilitates Agile ceremonies, removes blockers, and ensures the team follows Scrum practices.
+
+
 
 
 
