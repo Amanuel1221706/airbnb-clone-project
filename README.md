@@ -38,6 +38,39 @@ Project initialization completed. Further development will proceed in the phases
 #Why UI/UX Matters
 A user-friendly design improves usability and trust.
 In a booking system, it helps users quickly find, understand, and complete reservations without frustration directly impacting conversion rates and user satisfaction.
+# Figma Design Properties
+ Color Styles:
+-Primary Blue – Used for buttons and highlights #007AFF
+-White – Background and card surfaces
+-Light Gray – Filter backgrounds and borders (#F5F5F5)
+-Dark Gray/Black – Text and icons (#1C1C1E or similar)
+
+Accent Colors – For ratings stars (gold/yellow), and discounts (green)
+These help create a clean, modern, and easy-to-navigate interface.
+
+#Typography
+Font Family: Inter, Roboto, or Poppins – common in UI designs
+Font Weights:
+Bold for headings and prices
+Medium/Regular for body text, descriptions, and metadata
+Font Sizes:
+Heading: 24–32px
+Subheading/Price: 18–20px
+Body text: 14–16px
+Metadata : 12px
+
+Iportance of Identifying Design Properties in a Mockup
+Understanding the design properties in a mockup is crucial because:
+
+Ensures Consistency – Reusing color styles and typography creates a clean, unified look across all screens.
+
+Speeds Up Development – Developers can quickly implement styles without guessing or manually matching them.
+
+Improves Collaboration – Designers and developers speak the same "visual language."
+
+Enables Scalability – Consistent styles make it easy to maintain and extend the UI.
+
+Better User Experience – Thoughtful color and type choices enhance usability, readability, and accessibility.
 
 
 
